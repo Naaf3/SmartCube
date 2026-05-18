@@ -57,4 +57,16 @@ I wanted it to look like the custom card in Home Assistant that we have. I took 
 
 <img width="400" alt="Water Filling Page" src="https://github.com/Naaf3/SmartCube/blob/main/preview/water_filling_page.jpg"/>
 
-Just the water arc to help filling up the water tank. The page can easily be activated by turning the SmartCube. With the magnets it can easily be attached to the van near the water intake.
+Just the water arc to help filling up the water tank. The page can easily be activated by turning the SmartCube. With the magnets it can easily be attached to the van near the water intake.  
+<br>
+<br>
+<br>
+### Please note that there are still code snippets or functions in the yaml-file that are not fully reviewed or adapted to my needs.  
+<br>
+<br>
+
+If you like my work and want to support me:
+
+<a href="https://www.paypal.com/donate/?hosted_button_id=H9TBKLCDM8J2J">
+  <img src="https://github.com/Naaf3/Introduction/blob/main/images/donate_button.png" width="300" alt="Donate with PayPal" />
+</a>
